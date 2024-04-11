@@ -1,5 +1,8 @@
 # Scala-By-Aman-Mehta-
-![Uploading LaVp0AyqR5bGsC5Cbm.gif…]()
+
+![LaVp0AyqR5bGsC5Cbm](https://github.com/AmanMehta199816/Scala-By-Aman-Mehta-/assets/96304523/e3383437-193d-4ae6-b866-dbcba5435eb0)
+
+
 Scala is a modern multi-paradigm programming language designed to express common programming patterns in a concise, elegant, and type-safe way. It seamlessly integrates object-oriented and functional programming features, making it a powerful tool for building scalable and high-performance applications.
 
 ## Features
